@@ -15,24 +15,29 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AF786&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AF786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Face Recognition Attendance System
 
-## Problem
-Manual attendance is slow and prone to proxy attendance and human error.
+## 🚀 Featured Projects
 
-## Solution
-A face recognition based automated attendance system that identifies individuals using facial features and records attendance automatically.
+### Face Recognition Attendance System
 
-## Tech Stack
+**Problem**  
+Manual attendance is slow and prone to proxy attendance and human errors.
+
+**Solution**  
+A face recognition-based automated attendance system that identifies individuals using facial features and records attendance automatically.
+
+**Tech Stack**
 - Python
 - OpenCV
 - Machine Learning
 
-## Features
+**Features**
 - Real-time face detection
 - Automated attendance recording
 - Prevents proxy attendance
 - Secure identity verification
+
+🔗 Repository: https://github.com/YOUR_USERNAME/repository-name
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AF786&limit=5&theme=dark&combine_all_yearly_contributions=true)
