@@ -1,4 +1,5 @@
-## Hi 👋 I'm Arqam Farooqi
+# Hi 👋 I'm Arqam Farooqi
+
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Managing and developing 4 production websites at HubbleHox (EdTech company)<br><br>Building Hubblenext platform for online MBA, BSc, MSc programs<br><br>Optimizing SEO and performance for WordPress websites<br><br>Improving landing page conversions for marketing campaigns<br><br>👯 I’m looking to collaborate on<br><br>Web development projects (WordPress / React)<br><br>EdTech platforms and learning management systems<br><br>AI tools for education<br><br>Open source web development projects<br><br>🤝 I’m looking for help with<br><br>Advanced React development<br><br>Next.js full-stack applications<br><br>Scalable web architecture<br><br>DevOps and deployment strategies<br><br>🌱 I’m currently learning<br><br>Advanced JavaScript<br><br>React.js<br><br>Next.js<br><br>API integration<br><br>Modern full-stack development<br><br>💬 Ask me about<br><br>WordPress development<br><br>Elementor website building<br><br>SEO optimization<br><br>Landing page design<br><br>Website performance optimization<br><br>⚡ Fun fact<br><br>I started as a WordPress developer intern and now manage multiple production websites for an EdTech company.
 
