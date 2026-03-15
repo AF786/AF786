@@ -37,7 +37,7 @@ A face recognition-based automated attendance system that identifies individuals
 - Prevents proxy attendance
 - Secure identity verification
 
-🔗 Repository: [https://github.com/YOUR_USERNAME/repository-name](https://github.com/AF786/Attendance-System-Using-Facial-Recognition)
+🔗 Repository: https://github.com/AF786/Attendance-System-Using-Facial-Recognition
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AF786&limit=5&theme=dark&combine_all_yearly_contributions=true)
